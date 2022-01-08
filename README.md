@@ -5,8 +5,8 @@
 
 ## Tópicos abordados
 * CLI
-  * [Instalação](#)
-  * [Comandos](#)
+  * [Instalação](cli/01_instalacao.md)
+  * [Comandos](cli/02_comandos.md)
 * Workspaces
   * [O que é uma workspace](#)
   * [Criação e gerenciamento de workspaces](#)
