@@ -4,7 +4,7 @@ Uma workspace é uma versão da loja em que você está logado, porém isolada d
 Pense em uma workspace como uma branch do git, onde a branch principal (master) corresponde a versão que está em produção e as demais branchs à features e correções que estão sendo 
 feitas.
 
-## Tipos de workspace
+## Tipos de Workspace
 * Master - É a workspace principal da conta, ou seja, a workspace que está sendo usada em produção
 
 * Desenvolvimento - São workspaces onde o desenvolvimento acontece, nela é possível rodar comandos como o `vtex link` para testar as alterações em tempo real que estão sendo feitas no código fonte

@@ -8,7 +8,7 @@
   * [Instalação](docs/pt/cli/01_instalacao.md)
   * [Comandos](docs/pt/cli/02_comandos.md)
 * Workspaces
-  * [O Que é uma Workspace](docs/pt/workspaces/01_o_que_e_uma_workspace.md)
+  * [O Que é uma Workspace](docs/pt/workspaces/01_oque_e_uma_workspace.md)
   * [Criação e Gerenciamento de Workspaces](docs/pt/workspaces/02_criando_e_gerenciando_workspaces.md)
 * Blocos
   * [O que é um Bloco](#)
