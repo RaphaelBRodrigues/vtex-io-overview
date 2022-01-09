@@ -24,6 +24,6 @@ Altere as chaves `name` e `version` para `react` e `1.0.0` e rode o comando
 ```
 
 ## Links
-[Comandos Básicos](../docs/pt/cli/02_comandos.md)
+[Comandos Básicos](/docs/pt/cli/02_comandos.md)
 
 [React App Template](https://github.com/vtex-apps/react-app-template/) 
