@@ -1,11 +1,12 @@
 # VTEX IO
  This repository will approach some subjects about the development of app in the [VTEX](https://vtex.com/)'s low-code plataform
+
 ---
 
 ## Subjects
 * CLI
-  * [Installation](cli/01_instalacao.md)
-  * [Commands](cli/02_comandos.md)
+  * [Installation](docs/en/cli/01_installation.md)
+  * [Commands](docs/en/cli/02_commands.md)
 * Workspaces
   * [What is a Workspace](#)
   * [Creating and Managing Workspaces](#)

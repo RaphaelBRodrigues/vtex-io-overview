@@ -6,10 +6,10 @@
 ## Tópicos abordados
 * CLI
   * [Instalação](docs/pt/cli/01_instalacao.md)
-  * [Comandos](docs/pt/02_comandos.md)
+  * [Comandos](docs/pt/cli/02_comandos.md)
 * Workspaces
-  * [O que é uma Workspace](#)
-  * [Criação e Gerenciamento de Workspaces](#)
+  * [O Que é uma Workspace](docs/pt/workspaces/01_o_que_e_uma_workspace.md)
+  * [Criação e Gerenciamento de Workspaces](docs/pt/workspaces/02_criando_e_gerenciando_workspaces.md)
 * Blocos
   * [O que é um Bloco](#)
   * [Utilizando Blocos Nativos](#)
