@@ -9,18 +9,18 @@ Abra o arquivo `manifest.json` e faça as seguintes alterações
 
 * Dentro da chave [`builders`](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-builders) adicione `"react": "3.x"`, é necessário que esse builder seja adicionado para que o React funcione
 
-e.g.
-```json
-  "builders": {
-    "styles": "2.x",
-    "assets": "0.x",
-    "store": "0.x",
-    "sitemap": "0.x",
-    "docs": "0.x",
-    "messages": "1.x",
-    "react": "3.x"
-  }
-```
+  e.g.
+  ```json
+    "builders": {
+      "styles": "2.x",
+      "assets": "0.x",
+      "store": "0.x",
+      "sitemap": "0.x",
+      "docs": "0.x",
+      "messages": "1.x",
+      "react": "3.x"
+    }
+  ```
 
 * Feito isso rode o comando
   ```bash

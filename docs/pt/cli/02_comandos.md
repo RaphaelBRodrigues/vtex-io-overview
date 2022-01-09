@@ -18,4 +18,4 @@ A seguir veremos os principais comandos do CLI durante o desenvolvimento de um a
   * version - A versão do app que será instalado, caso a versão não seja passada a mais recente será instalada.
   
 ## Links
-* [Comandos CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-command-reference)
+[Comandos CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-command-reference)

@@ -14,6 +14,6 @@ feitas.
 
 
 ## Links
-* [Docs](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-2-basicsetuptodevelopinvtexio)
+[Docs](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-2-basicsetuptodevelopinvtexio)
 
-* [Workspaces de Produção](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace?_ga=2.140637746.1411386765.1641603712-1420314383.1630247374)
+[Workspaces de Produção](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace?_ga=2.140637746.1411386765.1641603712-1420314383.1630247374)

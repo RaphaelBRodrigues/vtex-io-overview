@@ -7,8 +7,8 @@
 * CLI
   * [Instalação](docs/pt/cli/01_instalacao.md)
   * [Comandos](docs/pt/cli/02_comandos.md)
-* Setup básico de uma loja
-  * [Utilizando os boilerplates](docs/pt/setup/02_utilizando_os_boilerplates.md)
+* Setup Básico
+  * [Utilizando os boilerplates](docs/pt/setup/01_utilizando_os_boilerplates.md)
   * [Configurações básicas](docs/pt/setup/02_configuracoes_basicas.md)
 * Workspaces
   * [O Que é uma Workspace](docs/pt/workspaces/01_oque_e_uma_workspace.md)
