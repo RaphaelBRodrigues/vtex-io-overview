@@ -6,6 +6,7 @@ A seguir veremos os principais comandos do CLI durante o desenvolvimento de um a
 * `vtex whoami` - Mostra a conta da VTEX, email e workspace atual
 * `vtex init` - Cria algumas pastas e arquivos básicos para o início do desenvolvimento
 * `vtex setup` - Configura o ambiente de desenvolvimento (eslint, prettier, typescript...)
+* `vtex login {{accountName}}` - Loga em alguma conta da VTEX; e.g. `vtex login corebiz`
 * `vtex use {{workspace}}` - Muda a workspace atual; e.g. `vtex use raphaeldev`
   * workspace - Nome da workspace já existente ou que será criado
 * `vtex link` - Sincroniza o app da pasta atual com a workspace em uso

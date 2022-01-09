@@ -5,25 +5,25 @@
 
 ## Tópicos abordados
 * CLI
-  * [Instalação](cli/01_instalacao.md)
-  * [Comandos](cli/02_comandos.md)
+  * [Instalação](docs/pt/cli/01_instalacao.md)
+  * [Comandos](docs/pt/02_comandos.md)
 * Workspaces
-  * [O que é uma workspace](#)
-  * [Criação e gerenciamento de workspaces](#)
+  * [O que é uma Workspace](#)
+  * [Criação e Gerenciamento de Workspaces](#)
 * Blocos
-  * [O que é um bloco](#)
-  * [Utilizando blocos nativos](#)
-  * [Criando blocos customizados](#)
+  * [O que é um Bloco](#)
+  * [Utilizando Blocos Nativos](#)
+  * [Criando Blocos Customizados](#)
 * Páginas
-  * [Alterando páginas nativas](#)
-  * [Criando uma página customizada](#)
+  * [Alterando Páginas Nativas](#)
+  * [Criando uma Página Customizada](#)
 * Site Editor
   * [Funcionalidades](#)
-  * [Blocos customizados](#)
+  * [Blocos Customizados](#)
 * Deploy
-  * [Fluxos de deploy](#)
+  * [Fluxo de Deploy](#)
 * Services
-  * [O que são os services](#)
+  * [O que são os Services](#)
 
 ## Links
 *  [Documentação](https://developers.vtex.com/vtex-developer-docs/docs/welcome)
