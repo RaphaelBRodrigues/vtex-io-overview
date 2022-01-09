@@ -38,4 +38,4 @@ Lembre-se de rodar o comando `vtex whoami` para confirmar em qual conta e worksp
 * `vtex workspace reset` - Reseta uma workspace, a mesma é deletada e criada automaticamente 
 
 ## Links
-[Comandos básicos](../docs/pt/cli/02_comandos.md)
+[Comandos Básicos](../docs/pt/cli/02_comandos.md)

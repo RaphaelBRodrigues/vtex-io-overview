@@ -30,6 +30,6 @@ Abra o arquivo `manifest.json` e faça as seguintes alterações
 E pronto, o repositório está pronto para ser utilizado!
 
 ## Links
-[Comandos básicos](../docs/pt/cli/02_comandos.md)
+[Comandos Básicos](../docs/pt/cli/02_comandos.md)
 
 [Builders](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-builders)
