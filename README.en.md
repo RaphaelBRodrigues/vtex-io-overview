@@ -26,6 +26,6 @@
   * [What are services](#)
 
 ## Links
-*  [Docs](https://developers.vtex.com/vtex-developer-docs/docs/welcome)
+[Docs](https://developers.vtex.com/vtex-developer-docs/docs/welcome)
   
-*  [VTEX Community](https://community.vtex.com/)
+[VTEX Community](https://community.vtex.com/)

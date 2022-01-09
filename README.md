@@ -7,6 +7,9 @@
 * CLI
   * [Instalação](docs/pt/cli/01_instalacao.md)
   * [Comandos](docs/pt/cli/02_comandos.md)
+* Setup básico de uma loja
+  * [Utilizando os boilerplates](docs/pt/setup/02_utilizando_os_boilerplates.md)
+  * [Configurações básicas](docs/pt/setup/02_configuracoes_basicas.md)
 * Workspaces
   * [O Que é uma Workspace](docs/pt/workspaces/01_oque_e_uma_workspace.md)
   * [Criação e Gerenciamento de Workspaces](docs/pt/workspaces/02_criando_e_gerenciando_workspaces.md)
@@ -26,6 +29,6 @@
   * [O que são os Services](#) WIP
 
 ## Links
-*  [Documentação](https://developers.vtex.com/vtex-developer-docs/docs/welcome)
+[Documentação](https://developers.vtex.com/vtex-developer-docs/docs/welcome)
   
-*  [VTEX Community](https://community.vtex.com/)
+[VTEX Community](https://community.vtex.com/)
