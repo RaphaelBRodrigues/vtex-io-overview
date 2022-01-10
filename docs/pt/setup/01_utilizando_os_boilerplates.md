@@ -1,7 +1,7 @@
-# Utilizando os boilerplates
+# Utilizando os Boilerplates
 A VTEX disponibiliza alguns repositórios que podem ser utilizados como template para a criação de novas lojas.
 
-## Criando a estrutura básica
+## Criando a Estrutura Básica
 Podemos criar a estrutura de um app automaticamente utilizando o seguinte comando
 ```bash
   vtex init

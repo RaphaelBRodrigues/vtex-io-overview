@@ -19,15 +19,15 @@
   * [Blocos Nativos](docs/pt/blocos/02_blocos_nativos.md)
   * [Blocos Customizados](docs/pt/blocos/03_blocos_customizados.md)
 * Páginas
-  * [Alterando Páginas Nativas](#) WIP
-  * [Criando uma Página Customizada](#) WIP
+  * <del> [Alterando Páginas Nativas](#) </del>
+  * <del> [Criando uma Página Customizada](#) </del>
 * Site Editor
-  * [Funcionalidades](#) WIP
-  * [Blocos Customizados](#) WIP
+  * <del> [Funcionalidades](#) </del>
+  * <del> [Blocos Customizados](#) </del>
 * Deploy
-  * [Fluxo de Deploy](#) WIP
+  * <del> [Fluxo de Deploy](#) </del>
 * Services
-  * [O que são os Services](#) WIP
+  * <del> [O que são os Services](#) </del>
 
 ## Links
 [Documentação](https://developers.vtex.com/vtex-developer-docs/docs/welcome)

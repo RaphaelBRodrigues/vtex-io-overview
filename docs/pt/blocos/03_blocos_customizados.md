@@ -68,7 +68,6 @@ Agora podemos utilizar o nosso novo bloco customizado dentro de outro bloco, com
       "hello-world"
     ]
 }
-
 ```
 
 ## Links
