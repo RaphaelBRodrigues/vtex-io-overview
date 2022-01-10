@@ -37,6 +37,7 @@ export default HelloWorld;
 
 ```ts
 // react/HelloWorld.ts
+
 export { default as HelloWorld } from './components/HelloWorld'
 ```
 

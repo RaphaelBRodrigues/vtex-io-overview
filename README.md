@@ -17,7 +17,7 @@
 * Blocos
   * [O que é um Bloco](docs/pt/blocos/01_o_que_e_um_bloco.md)
   * [Blocos Nativos](docs/pt/blocos/02_blocos_nativos.md)
-  * [Blocos Customizados](docs/pt/blocos/03_blocos_customizados.md) WIP
+  * [Blocos Customizados](docs/pt/blocos/03_blocos_customizados.md)
 * Páginas
   * [Alterando Páginas Nativas](#) WIP
   * [Criando uma Página Customizada](#) WIP
