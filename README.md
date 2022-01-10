@@ -10,14 +10,14 @@
 * Setup Básico
   * [Utilizando os boilerplates](docs/pt/setup/01_utilizando_os_boilerplates.md)
   * [Configurações básicas](docs/pt/setup/02_configuracoes_basicas.md)
-  * [Configurações básicas](docs/pt/setup/03_entendendo_a_estrutura.md)
+  * [Entendendo a Estrutura](docs/pt/setup/03_entendendo_a_estrutura.md)
 * Workspaces
   * [O Que é uma Workspace](docs/pt/workspaces/01_oque_e_uma_workspace.md)
   * [Criação e Gerenciamento de Workspaces](docs/pt/workspaces/02_criando_e_gerenciando_workspaces.md)
 * Blocos
   * [O que é um Bloco](docs/pt/blocos/01_o_que_e_um_bloco.md)
-  * [Utilizando Blocos Nativos](docs/pt/blocos/02_utilizando_blocos_nativos.md)
-  * [Criando Blocos Customizados](docs/pt/blocos/03_criando_blocos_customizados.md) WIP
+  * [Blocos Nativos](docs/pt/blocos/02_blocos_nativos.md)
+  * [Blocos Customizados](docs/pt/blocos/03_blocos_customizados.md) WIP
 * Páginas
   * [Alterando Páginas Nativas](#) WIP
   * [Criando uma Página Customizada](#) WIP

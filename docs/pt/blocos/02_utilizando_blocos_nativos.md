@@ -1,4 +1,4 @@
-# Utilizando blocos nativos
+# Blocos Nativos
 Como já vimos, o front de uma loja IO é composto por blocos, e a VTEX já disponibiliza diversos destes nativamente no Store Framework, agora veremos como importar esses apps em nossa aplicação para que tenhamos acesso a esses blocos
 
 ## Importando Apps Nativos
@@ -6,6 +6,8 @@ Como já vimos, o front de uma loja IO é composto por blocos, e a VTEX já disp
 
   e.g.
   ```jsonc
+  // manifest.json
+
   {
     "dependencies": {
       "vtex.rich-text": "0.x"
@@ -14,6 +16,8 @@ Como já vimos, o front de uma loja IO é composto por blocos, e a VTEX já disp
 ```
  E só então utilizar o bloco `rich-text`
   ```jsonc
+  // store/blocks/home/home.jsonc
+
 {                                       // 01
     "store.home": {                       // 02
       "blocks": [                         // 03
@@ -30,6 +34,8 @@ Como já vimos, o front de uma loja IO é composto por blocos, e a VTEX já disp
 O mesmo se aplica a todos os outros blocos, nativos ou customizados que não estejam presentes no App atual, que serão utilizados na loja
 e.g.
 ```jsonc
+  // manifest.json
+
   "dependencies": {
     "vtex.store": "2.x",
     "vtex.store-header": "2.x",

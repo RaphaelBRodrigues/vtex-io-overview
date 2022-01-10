@@ -5,6 +5,8 @@ Pense em um bloco como um componente React, as páginas (home, pdp, categoria...
   No exemplo a seguir vemos o bloco `store.home` que é o bloco nativo responsável pela home do site, dentro desse bloco existe a propiedade `blocks` onde os `childrens` desse bloco são inseridos.
 
 ```jsonc
+// store/blocks/home/home.jsonc
+
 {
   "store.home": {
     "blocks": [
@@ -18,6 +20,8 @@ Pense em um bloco como um componente React, as páginas (home, pdp, categoria...
   No exemplo apresentado nada será exibido na home do site, pois utilizamos o bloco `rich-text` dentro do template da home o `store.home`, mas não passamos nenhum texto para ele exibir, para corrigirmos isso precisamos passar algumas propiedades para ele, como no exemplo a seguir
 
   ```jsonc
+  // store/blocks/home/home.jsonc
+
 {                                       // 01
     "store.home": {                       // 02
       "blocks": [                         // 03
@@ -39,6 +43,8 @@ O exemplo acima já funciona, e exibe o texto `Olá, seja bem vindo!` na home de
 Nós podemos atribuir "ids" aos blocos para os personalizar individualmente, como no exemplo a seguir
 
   ```jsonc
+  // store/blocks/home/home.jsonc
+  
 {                                       // 01
     "store.home": {                       // 02
       "blocks": [                         // 03
