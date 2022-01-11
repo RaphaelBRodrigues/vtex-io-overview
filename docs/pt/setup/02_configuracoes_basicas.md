@@ -10,7 +10,9 @@ Abra o arquivo `manifest.json` e faça as seguintes alterações
 * Dentro da chave [`builders`](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-builders) adicione `"react": "3.x"`, é necessário que esse builder seja adicionado para que o React funcione
 
   e.g.
-  ```json
+  ```jsonc
+    // manifest.json 
+    
     "builders": {
       "styles": "2.x",
       "assets": "0.x",
