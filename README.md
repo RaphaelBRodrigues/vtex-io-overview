@@ -21,9 +21,11 @@
 * Páginas
   * [Alterando Páginas Nativas](docs/pt/paginas/01_alterando_paginas_nativas.md)
   * [Criando uma Página Customizada](docs/pt/paginas/02_criando_uma_pagina_customizada.md)
-* Site Editor
+* CMS
   * <del> [Funcionalidades](#) </del>
+  * <del> [Site Editor](#) </del>
   * <del> [Blocos Customizados](#) </del>
+  * <del> [Páginas Customizadas](#) </del>
 * Deploy
   * <del> [Fluxo de Deploy](#) </del>
 * Services

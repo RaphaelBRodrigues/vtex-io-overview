@@ -10,7 +10,7 @@ Podemos identificar os blocos que representam as páginas através do seu nome, 
 * `store.home` - Template da Home
 * `store.search` - Template das páginas de Busca (pode conter variações _#brand_, _#departament_...)
 * `store.orderPlaced` - Template da página orderPlaced 
-* `store.not-found` - Template de página não encontrade (pode conter variações _#product_, _#category_)
+* `store.not-found` - Template de página não encontrada (pode conter variações _#product_, _#category_)
 
 
 ## Links
