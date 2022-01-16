@@ -20,7 +20,7 @@
   * [Blocos Customizados](docs/pt/blocos/03_blocos_customizados.md)
 * Páginas
   * [Alterando Páginas Nativas](docs/pt/paginas/01_alterando_paginas_nativas.md)
-  * <del> [Criando uma Página Customizada](docs/pt/paginas/02_criando_uma_pagina_customizada.md) </del>
+  * [Criando uma Página Customizada](docs/pt/paginas/02_criando_uma_pagina_customizada.md)
 * Site Editor
   * <del> [Funcionalidades](#) </del>
   * <del> [Blocos Customizados](#) </del>
