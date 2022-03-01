@@ -35,4 +35,4 @@ Com a página criada, podemos alterar a propriedade `blocks` do template `store/
 ## Links
 [Estrutura Básica](docs/pt/setup/03_entendendo_a_estrutura.md)
 
-[Blocos Nativos](docs/pt/blcoos/02_blocos_nativos.md)
+[Blocos Nativos](docs/pt/blocos/02_blocos_nativos.md)
